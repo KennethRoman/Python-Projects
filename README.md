@@ -6,6 +6,6 @@ A collection of Python projects written inside Jupyter Notebook showcasing entry
 
 `What's the Hold Up?: Traffic Analysis on I-94 Interstate Highway and What Causes It`: An exploration and analysis of traffic data from I-94 figuring out which columns indicated heavy traffic.
 
-`Google Play Store and Apple Store Analysis`: Explorationa and analysis of the online app stores from Google and Apple answering some basic questions concerning most popular genres, cleaning of the data, etc. IN PROGRESS
+`Google Play Store and Apple Store Analysis`: Exploration and analysis of the online app stores from Google and Apple answering some basic questions concerning most popular genres, cleaning of the data, etc. IN PROGRESS
 
 There are more projects in the works and projects being cleaned up so keep an eye out for new ones coming soon!
